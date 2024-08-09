@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104765323032",
+    "project_id": "tracked-c608d",
+    "storage_bucket": "tracked-c608d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104765323032:android:95851e1378001c96f3106d",
+        "android_client_info": {
+          "package_name": "com.geraldineramos.tracked"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104765323032-f6a21k6oq91ccmp5ndib55pq6eromcms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATtmcn5wFrHfqU4yoYq20JoIvkQimupmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104765323032-f6a21k6oq91ccmp5ndib55pq6eromcms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
