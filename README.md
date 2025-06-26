@@ -1,8 +1,8 @@
-# Attendance System
+# TrackED
 
-## Flutter Android & iOS Application
+## Student Attenance System
 
-**Attendance System** is a cross-platform Flutter app designed to streamline student attendance management using QR code scanning and SMS notifications to parents.
+**TrackED** is a cross-platform Flutter app designed to streamline student attendance management using QR code scanning and SMS notifications to parents.
 
 ### Key Features
 
@@ -27,7 +27,7 @@
   - Monthly attendance reports visualized through charts.
 
 - **Teacher-Specific Functionalities:**  
-  - Create multiple subjects including the number of male and female students and duration.  
+  - Create multiple subjects, including the number of male and female students and duration.  
   - Form multiple groups by adding several phone numbers for group messaging.
 
 ---
