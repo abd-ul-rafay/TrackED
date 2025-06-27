@@ -1,7 +1,5 @@
 # TrackED
 
-## Student Attenance System
-
 **TrackED** is a cross-platform Flutter app designed to streamline student attendance management using QR code scanning and SMS notifications to parents.
 
 ### Key Features
@@ -33,4 +31,8 @@
 ---
 
 This system enhances attendance tracking accuracy and communication efficiency between schools and parents.
+
+### Screenshots
+
+<img src="screenshots.png" />
 
